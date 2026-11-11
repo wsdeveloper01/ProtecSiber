@@ -1,8 +1,0 @@
-{
-  "rewrites": [
-    {
-      "source": "/api-berita",
-      "destination": "https://obfustext.is-great.org/berita.php"
-    }
-  ]
-}
