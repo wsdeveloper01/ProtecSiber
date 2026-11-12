@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/api/berita", "destination": "https://obfustext.is-great.org/berita.json?i=1" },
+    { "source": "/berita/:slug", "destination": "/berita.html" }
+  ]
+}
